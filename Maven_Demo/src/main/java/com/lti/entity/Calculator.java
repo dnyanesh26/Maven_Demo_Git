@@ -6,7 +6,8 @@ public class Calculator {
 	public int add(int x, int y)
 	{
 		
-		return(x+y);
+		int sum=x+y;
+		return(sum);
 	}
 	
 	public void searchEmpId(int empid)
