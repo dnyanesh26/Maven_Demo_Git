@@ -19,6 +19,7 @@ public class Calculator {
 		else
 		{
 			System.out.println(" do something");
+			System.out.println("new jenkin");
 		}
 		
 	}
